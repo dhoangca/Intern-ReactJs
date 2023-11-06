@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "title": "posts 3",
+      "content": "content for post 3",
+      "author": "author 1",
+      "publishDate": "2023/10/27",
+      "category": "entertainment",
+      "featuredImage": "https://www.xtrafondos.com/wallpapers/personaje-satoru-gojo-jujutsu-kaisen-7799.jpg",
+      "id": 1
+    },
+    {
+      "title": "posts 3",
+      "content": "content for post 3",
+      "author": "author 1",
+      "publishDate": "2023/10/27",
+      "category": "entertainment",
+      "featuredImage": "https://www.xtrafondos.com/wallpapers/personaje-satoru-gojo-jujutsu-kaisen-7799.jpg",
+      "id": 2
+    },
+    {
+      "title": "posts 3",
+      "content": "content for post 3",
+      "author": "author 1",
+      "publishDate": "2023/10/27",
+      "category": "entertainment",
+      "featuredImage": "https://www.xtrafondos.com/wallpapers/personaje-satoru-gojo-jujutsu-kaisen-7799.jpg",
+      "id": 3
+    },
+    {
+      "title": "posts 3",
+      "content": "content for post 3",
+      "author": "author 1",
+      "publishDate": "2023/10/27",
+      "category": "entertainment",
+      "featuredImage": "https://www.xtrafondos.com/wallpapers/personaje-satoru-gojo-jujutsu-kaisen-7799.jpg",
+      "id": 5
+    },
+    {
+      "title": "Món bánh tráng cuốn Tây Ninh có gì  đặc biệt?",
+      "content": "Vùng đất Tây Ninh đầy nắng và gió không chỉ thu hút du khách với cảnh đẹp, mà còn bởi những món ăn vặt siêu ngon. Bánh tráng là món ăn có nguồn gốc từ miền Trung, sau đó được người dân Tây Ninh biến tấu với khẩu vị thơm ngon và mềm. Dần dần món bánh tráng cuốn Tây Ninh được chế biến từ gạo xay hoặc bột mì. Để có món bánh tráng cuốn ngon, điều quan trọng là phải biết cách chọn nguyên liệu ngon và tốt nhất. Bột được xay mịn sau đso sẽ làm thành bánh tráng và phơi ngoài trời nắng cho khô. Bánh tráng cuốn là món ăn dân dã và cũng là niềm tự hào của người dân Tây Ninh.",
+      "author": "vinpearl",
+      "publishDate": "2023-11-06",
+      "category": "travel",
+      "featuredImage": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/11_2023/banh_trang_cuon_tay_ninh.jpg",
+      "id": 10
+    }
+  ]
+}

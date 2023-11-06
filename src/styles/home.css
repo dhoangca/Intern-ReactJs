@@ -1,0 +1,49 @@
+
+/* Reset default margin and padding */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  .header-container {
+    background-color: #333;
+    color: white;
+    display: flex; /* Sử dụng flexbox */
+    justify-content: space-between; /* Đưa phần tử con vào hai phía của header */
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    height: 50px;
+  }
+  
+  /* Navbar styles */
+  .navbar {
+    font-size: 18px;
+    padding: 10px;
+  }
+  
+  /* Button styles */
+  .add-button-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 10px 25px 0 0;
+  }
+  
+  .add-button {
+    background-color: #0077FF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .add-button:hover {
+    background-color: #0055CC;
+  }
+  
